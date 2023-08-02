@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UTimeSmallWindow/1.0.0": {
+        "dependencies": {
+          "UTimeCoreLibrary": "1.0.0",
+          "UTimeMainWindow": "1.0.0"
+        },
+        "runtime": {
+          "UTimeSmallWindow.dll": {}
+        }
+      },
+      "UTimeCoreLibrary/1.0.0": {
+        "runtime": {
+          "UTimeCoreLibrary.dll": {}
+        }
+      },
+      "UTimeMainWindow/1.0.0": {
+        "dependencies": {
+          "UTimeCoreLibrary": "1.0.0"
+        },
+        "runtime": {
+          "UTimeMainWindow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UTimeSmallWindow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UTimeCoreLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UTimeMainWindow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

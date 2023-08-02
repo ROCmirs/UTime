@@ -1,0 +1,11 @@
+E:\UTime\UTimeCoreLibrary\bin\Debug\net6.0\UTimeCoreLibrary.deps.json
+E:\UTime\UTimeCoreLibrary\bin\Debug\net6.0\UTimeCoreLibrary.dll
+E:\UTime\UTimeCoreLibrary\bin\Debug\net6.0\UTimeCoreLibrary.pdb
+E:\UTime\UTimeCoreLibrary\obj\Debug\net6.0\UTimeCoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTime\UTimeCoreLibrary\obj\Debug\net6.0\UTimeCoreLibrary.AssemblyInfoInputs.cache
+E:\UTime\UTimeCoreLibrary\obj\Debug\net6.0\UTimeCoreLibrary.AssemblyInfo.cs
+E:\UTime\UTimeCoreLibrary\obj\Debug\net6.0\UTimeCoreLibrary.csproj.CoreCompileInputs.cache
+E:\UTime\UTimeCoreLibrary\obj\Debug\net6.0\UTimeCoreLibrary.dll
+E:\UTime\UTimeCoreLibrary\obj\Debug\net6.0\refint\UTimeCoreLibrary.dll
+E:\UTime\UTimeCoreLibrary\obj\Debug\net6.0\UTimeCoreLibrary.pdb
+E:\UTime\UTimeCoreLibrary\obj\Debug\net6.0\ref\UTimeCoreLibrary.dll
